@@ -7,6 +7,6 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: main 
+    branch: main
   url: https://github.com/Suyeshk/gitops-Kubernetes-demo
 
